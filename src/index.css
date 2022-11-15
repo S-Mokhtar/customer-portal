@@ -13,7 +13,7 @@ code {
 }
 
  .login, .signup{
-  background:  linear-gradient(to right, #ee7724, #d8363a, #dd3675, #b44593);
+  background:  linear-gradient(to right, #fba620, #ee7724, #e0202f, #bf204f, #51164e, #1e174f);
 }
 
 .text{
@@ -21,7 +21,7 @@ code {
 }
 
 .btn-primary {
-    background:  linear-gradient(to right, #ee7724, #d8363a, #dd3675, #b44593) !important;
+    background:  linear-gradient(to right, #fba620, #ee7724, #e0202f, #bf204f, #51164e, #1e174f) !important;
     border:none !important;
 } 
 
